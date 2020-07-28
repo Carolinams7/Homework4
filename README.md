@@ -12,7 +12,7 @@ This quiz-with-timer application was made in a fun way to test knowledge and del
 
 ### Features
 
-- Once quiz starts, styling timer start performing;
+- Once quiz starts, styling timer initiate performing;
 - Styling changes if answer is wrong or time is up (15s);
 - Results is presenting with percentage.
 
