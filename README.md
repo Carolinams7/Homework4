@@ -4,7 +4,7 @@ Quiz with a styling timer using Javascript and CSS.
 
 > [Demo](https://carolinams7.github.io/Quiz-with-timer/)
 
-<img src="https://github.com/Carolinams7/appArtment/raw/master/client/public/images/appArtmentpic.png"/>
+<img src="https://github.com/Carolinams7/Quiz-with-timer/raw/master/quiztimerpic.png"/>
 
 ## Overview
 
