@@ -21,7 +21,6 @@ const gaugeUnit = gaugeWidth / questionTime;
 let TIMER;
 let score = 0;
 
-
 function renderQuestion() {
     let q = questions[runningQuestion];
 
