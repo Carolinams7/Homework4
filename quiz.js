@@ -79,6 +79,7 @@ function checkAnswer (answer){
         // change progress color to red
         answerIsWrong();
     }
+    
     count = 0;
     if( runningQuestion < lastQuestion){
         runningQuestion++;
