@@ -33,7 +33,6 @@ function renderQuestion() {
 
 start.addEventListener("click", startQuiz);
 
-
 function startQuiz(){
     start.style.display = "none";
     renderQuestion();
