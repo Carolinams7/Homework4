@@ -108,7 +108,5 @@ function scoreRender(){
     // calculate % question answered
     const scorePercent = Math.round(100 * score/questions.length);
 
-
-
 scoreDiv.innerHTML = "<p>" + scorePercent + "%</p>";
 }
