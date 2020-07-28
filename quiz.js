@@ -90,6 +90,7 @@ function checkAnswer (answer){
         scoreRender();
     }
 }
+
 // answer is correct
 function answerIsCorrect(){
     document.getElementById(runningQuestion).style.backgroundColor = "#0f0";
